@@ -3,6 +3,12 @@
 ## Project Overview
 This project explores customer churn using a Telco customer dataset and a Power BI report. The goal is to understand customer characteristics and service/contract patterns that may be associated with churn.
 
+## Dashboard Preview
+
+| Dashboard |
+|---|---|
+| ![Dashboard](dashboard.png) |
+
 ## Files Included
 - `Customer-Churn-Analysis.pbix` — Power BI report file. Open it with Microsoft Power BI Desktop.
 - `telco_churn_unclean.csv` — raw/unclean input dataset used for analysis.
